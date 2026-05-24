@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class GreetingController {
 
-// test
+// test2
     private static final String template = "Hello, %s ^..^v !";
     private final AtomicLong counter = new AtomicLong();
 
